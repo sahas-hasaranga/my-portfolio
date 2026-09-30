@@ -12,7 +12,7 @@ export default function Home() {
       <nav className="navbar">
         <div className="container nav-content">
           <div className="nav-brand">
-            <img src="./profile.jpg" alt="Sahas Hasaranga" className="nav-avatar" />
+            <img src="/my-portfolio/profile.jpg" alt="Sahas Hasaranga" className="nav-avatar" />
             <div className="nav-brand-text">
               <span className="nav-name">Sahas Hasaranga</span>
               <span className="nav-role">Software Developer</span>
@@ -74,7 +74,7 @@ export default function Home() {
 
           <div className="hero-visual">
             <div className="hero-image-wrapper">
-              <img src="./profile.jpg" alt="Sahas Hasaranga" className="hero-image" />
+              <img src="/my-portfolio/profile.jpg" alt="Sahas Hasaranga" className="hero-image" />
               <div className="hero-image-pill">
                 Software Developer
               </div>

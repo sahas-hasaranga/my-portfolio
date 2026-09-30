@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sahas Hasaranga - Personal Portfolio 🚀
 
-## Getting Started
+Welcome to my personal portfolio repository! This is a modern, responsive, and beautifully designed web application built to showcase my skills, projects, and educational journey as a Software Developer.
 
-First, run the development server:
+## 🌟 Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+You can view the live portfolio here: **[sahas-hasaranga.github.io/my-portfolio](https://sahas-hasaranga.github.io/my-portfolio)**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This portfolio was built using modern web technologies:
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Library:** [React](https://reactjs.org/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** Custom CSS (Modern Light Theme, CSS Grid, Flexbox, Glassmorphism)
+- **Deployment:** GitHub Pages / GitHub Actions
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Key Features
 
-## Learn More
+- **Modern Light Theme:** A clean, professional, and aesthetic layout heavily focused on readability and user experience.
+- **Responsive Design:** Fully responsive layout that adapts seamlessly to desktop, tablet, and mobile devices.
+- **Projects Showcase:** Highlights my best work across Mobile Development (Flutter), Full-Stack Web (React/Node.js), and Enterprise Systems.
+- **Interactive Journey Timeline:** A structured timeline of my educational background and professional experience.
+- **Contact Interface:** A sleek contact section to facilitate professional networking and inquiries.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Getting Started (Local Development)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+If you'd like to clone this repository and run it locally, follow these steps:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-## Deploy on Vercel
+### Installation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sahas-hasaranga/my-portfolio.git
+   ```
+2. **Navigate to the directory**
+   ```bash
+   cd my-portfolio
+   ```
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+4. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+5. **View the site**
+   Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🤝 Connect with Me
+
+- **Email:** sahasahas540@gmail.com
+- **LinkedIn:** [Sahas Hasaranga](https://www.linkedin.com/in/sahas-hasaranga-82474a397)
+- **GitHub:** [sahas-hasaranga](https://github.com/sahas-hasaranga)
+
+---
+*Designed and built by Sahas Hasaranga.*
